@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a database management system and accompanying dashboard.<br>-  📚 Currently learning JavaScript to enhance my front-end development skills. <br>- 💼 Actively seeking co-op opportunities in software engineering for my next term.<br>- 🎓 Studying at the University of Ottawa, pursuing a Bachelor's degree in Software Engineering.<br>- ✉️ You can reach me at Saja.elkurtehi@gmail.com</p>
+<p align="left"><br>-  📚 Currently learning to use Flutter to enhance my app development skills. <br>- 💼 Actively seeking co-op opportunities in software engineering for my next term.<br>- 🎓 Studying at the University of Ottawa, pursuing a Bachelor's degree in Software Engineering.<br>- ✉️ You can reach me at Saja.elkurtehi@gmail.com</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- Programming Languages: Java, Python, JavaScript, C++<br>- Web Development: HTML, CSS, React.js, Spring <br>- Database Management: SQL, MongoDB<br>- Tools & Technologies: Git, Docker, IntelliJ</p>
+<p align="left">- Programming Languages: Java, Python, JavaScript <br>- Web Development: HTML, CSS, React.js, Spring <br>- Database Management: SQL, MongoDB<br>- Tools & Technologies: Git, Docker, IntelliJ</p>
 
 ###
 
